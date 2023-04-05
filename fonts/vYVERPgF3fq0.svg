@@ -1,0 +1,10 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse rx="20" ry="20" transform="matrix(0 -1 -1 0 20 20)" fill="url(#paint0_radial_16789_2177)"/>
+<path d="M11.6125 15.25C11.6125 15 11.475 14.75 11.3375 14.625L9.275 12.375V12H15.6L20.55 21.875L24.95 12H31V12.375L29.2125 13.875C29.075 14 28.9375 14.125 29.075 14.375V25.625C29.075 25.75 29.075 26 29.2125 26.125L30.8625 27.625V28H22.2V27.625L23.9875 26C24.125 25.875 24.125 25.75 24.125 25.5V16.375L19.175 27.75H18.625L12.85 16.375V24C12.85 24.375 12.9875 24.625 13.125 24.875L15.4625 27.375V27.75H9V27.375L11.3375 24.875C11.6125 24.625 11.75 24.375 11.6125 24V15.25Z" fill="#F8F8F8"/>
+<defs>
+<radialGradient id="paint0_radial_16789_2177" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(28.6352 29.3155) rotate(-127.803) scale(33.4206 33.8242)">
+<stop stop-color="#4FD7A5"/>
+<stop offset="1" stop-color="#26D3DF"/>
+</radialGradient>
+</defs>
+</svg>
